@@ -29,12 +29,19 @@ Identificar patrones de uso, estacionalidad y comportamiento de los usuarios par
 ## 📁 Estructura del repositorio
 
 nyc-citi-bike-trips-bi/
+
 │
+
 ├── data/                # Datos originales y procesados
+
 ├── docs/                # Informe final, presentación y documentación ejecutiva
+
 ├── images/              # Capturas del dashboard y gráficos clave
+
 ├── Cyclistic_Final.twbx # Dashboard Tableau empaquetado
+
 ├── requirements.txt     # Herramientas utilizadas
+
 └── License.txt          # Licencia MIT
 
 ---
